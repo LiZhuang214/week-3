@@ -1,5 +1,6 @@
-name: week-3
+name: musa-620
 channels:
+  - defaults
   - conda-forge
 dependencies:
   - python=3.6
